@@ -1,10 +1,9 @@
+# Date:19.09.2024
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
-
 
 ## AIM:
 
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
-
 
 ## EQUIPMENTS REQUIRED:
 
@@ -233,13 +232,9 @@ public class SecondActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/b00f27e4-3786-4912-8cf9-37324db80d9e)
-![image](https://github.com/user-attachments/assets/49b7bc60-e575-47c1-8256-21e14d0b691d)
 
-
-
-
-
+<img src="https://github.com/user-attachments/assets/b00f27e4-3786-4912-8cf9-37324db80d9e" width=200>
+<img src="https://github.com/user-attachments/assets/49b7bc60-e575-47c1-8256-21e14d0b691d" width=200>
 
 
 ## RESULT
